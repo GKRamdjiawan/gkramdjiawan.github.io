@@ -1,0 +1,33 @@
+input {
+    width: 100%;
+    border: none;
+    background-color: #E6E6E6;
+}
+
+.pokeCard {
+    border: 1px solid;
+    height: 100%;
+    width: 300px;
+    /* background-color: red; */
+    box-shadow: 1px 1px 5px black;
+}
+
+.pokeDetails {
+    background-color: #E6E6E6;
+}
+
+.pokeinfo {
+    display: flex;
+    justify-content: space-between;
+    /* background-color: #e0db4c; */
+    font-weight: 1000;
+    padding: 0 10px;
+}
+
+.carousel {
+    width: 100%;
+}
+
+.types {
+    width: 100%;
+}
